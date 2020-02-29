@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://cjstan22:03ec66@ada-forever-emzyt.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubClientId": "2349f88eec84f0850e76",
+    "githubSecret": "6a023ad4ab4ea8c8e057a66bd3209c995ec27d7a"
+}
